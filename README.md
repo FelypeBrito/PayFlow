@@ -69,7 +69,7 @@
 
 ---
 
-   >Esse projeto foi desenvolvido com ❤️ na #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)** ministrado pelo professor Gabriel Savio.<br>
+   >Esse projeto foi desenvolvido com ❤️ na #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)** ministrado pelo professor <a href="https://www.instagram.com/gabul.dev/">Gabriel Savio</a>.<br>
    
 
 ---
